@@ -1,2 +1,2 @@
 # Mobile Robot Development-
-Information about the wheelchair project I  undertook in my bachelor studies.
+Information about the development of a robot designed to perform predefined tasks, which I undertook during my bachelor’s studies.
