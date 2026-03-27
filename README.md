@@ -9,6 +9,8 @@ https://github.com/user-attachments/assets/7d992ccb-eab6-4a1d-bb2e-580a4527bd85
 
 
 
+[Intro part 3.zip](https://github.com/user-attachments/files/26297152/Intro.part.3.zip)
+
 Qr code detection 
 
 https://github.com/user-attachments/assets/2cdd5ef4-3e92-4c3c-96c5-008d7c05f847
